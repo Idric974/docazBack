@@ -1,0 +1,26 @@
+{
+  "name": "docazback",
+  "version": "1.0.0",
+  "description": "Backend de l'application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Idric974/docazBack.git"
+  },
+  "author": "Idric Evarne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Idric974/docazBack/issues"
+  },
+  "homepage": "https://github.com/Idric974/docazBack#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "firebase-admin": "^11.0.1",
+    "nodemon": "^2.0.19"
+  }
+}
